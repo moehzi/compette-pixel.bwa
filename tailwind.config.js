@@ -9,8 +9,11 @@ module.exports = {
 				dark:'#986121',
 			},
 			black: '#0F1D37',
-			primary:'#10495C'
-
+			primary:'#10495C',
+			deepskyblue:{
+				DEFAULT:'#65D9E4',
+				light:'#EBFAFC'
+			}
 		},
 
 			fontFamily: {
