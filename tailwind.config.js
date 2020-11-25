@@ -8,7 +8,12 @@ module.exports = {
 				DEFAULT:'#F2AD5F',
 				dark:'#986121',
 			}
-		}
+		},
+
+			fontFamily: {
+				sans: ['Asap']
+			  },
+	
 	},
   },
   variants: {
