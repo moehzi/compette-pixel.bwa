@@ -7,12 +7,16 @@ module.exports = {
 			orange:{
 				DEFAULT:'#F2AD5F',
 				dark:'#986121',
-			}
+			},
+			black: '#0F1D37',
+			primary:'#10495C'
+
 		},
 
 			fontFamily: {
 				sans: ['Asap']
 			  },
+			  
 	
 	},
   },
