@@ -1,0 +1,1 @@
+# compette-pixel.bwa
